@@ -34,7 +34,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Reproduzindo a Listagem do YouTube com Grid Layout no CSS](https://web.dio.me/lab/reproduzindo-a-listagem-do-youtube-com-grid-layout-no-css-grid-figma/learning/f4d586be-80c8-4aa1-9fb9-b1cce284bdd6)[Entendendo o Desafio](https://web.dio.me/lab/reproduzindo-a-listagem-do-youtube-com-grid-layout-no-css-grid-figma/learning/70a8e08d-a407-43f6-a41e-22d21e17f345)
+- [Reproduzindo a Listagem do YouTube com Grid Layout no CSS](https://web.dio.me/lab/reproduzindo-a-listagem-do-youtube-com-grid-layout-no-css-grid-figma/learning/f4d586be-80c8-4aa1-9fb9-b1cce284bdd6)
+- [Entendendo o Desafio](https://web.dio.me/lab/reproduzindo-a-listagem-do-youtube-com-grid-layout-no-css-grid-figma/learning/70a8e08d-a407-43f6-a41e-22d21e17f345)
 
 
 
